@@ -1,28 +1,21 @@
 # Coding Challenge
 
-Thanks for taking the time to download this refactoring exercise. 
+Thanks for giving me the opportunity for this refactoring exercise. 
 
-This solution contains three classes used by our imaginary sales department to produce order receipts and some unit tests to prove that everything works.
+Code Review Document 
+-	Access Modifiers 
+-	public: The type or member can be accessed by any other code in the same assembly or another assembly that references it.
+-	private: The type or member can be accessed only by code in the same class or struct.
 
-Pretend this code is part of a larger software system and one of the other developers on your team has submitted this code. 
+Don’t need to change anywhere in a code for access modifiers. 
 
-Assume that this solution will change regularly as a result of fast moving product requirements. Aspects of the system that are likely to change include: 
+-	Inheritance concept  - Applied on policy class because more policies will be add in future ,
+One way to build this would be to create a base Policy class, and create sub-classes for CarPolicy, MotorCyclePolicy, and HomePolicy – with each sub-class handling the details for the different way of Policy
 
- - More policies at new prices.
- - Different discount codes and percentages.
- - Additional receipt formats.
+- Composition  - Instead of creating more subclasses we can try to using  composition .
 
-As a developer in the team:
-
-- Prepare a code review document listing the points that you would like to address with the developer.
-- Refactor the code so that it can survive an onslaught of change, you're confident it works, and you're comfortable the next engineer will easily understand how to work on it.
-- Create a pull request for your changes.
-
-*Hint: if there are multiple commits we will read each of them to gain insight into how you went about tackling the refactoring*
-
-If we love your refactoring and your resume is legit, we'll move to the next step of the recruitment process.
-
-**Show us what you can do! You should be proud of what you submit.**
+DDD concepts – Domain Driven Design concepts applied on all classes of code means all code put in different layers like BLL , DLL and Presentation layer . 
+-	
 
 # Skills Matrix
 
@@ -41,36 +34,35 @@ Please also rate yourself on the following scale for the skills below. This will
 |Skill |Level| Notes|
 |--|--|--|
 |**Server**||
-| C# ||
-|.Net Ecosystem ||
-|WebAPI ||
-|ORM ||
-|NoSql ||
-|SQL ||
-|Unit Testing ||
+| C# ||  3 
+|.Net Ecosystem || 2 
+|WebAPI || 2 
+|ORM || 2 
+|NoSql || 2 
+|SQL || 4 
+|Unit Testing || 4 
 |Service Bus ||
-|**Browser** ||
-|SPA Frameworks ||
-|JavaScript ||
-|CSS pre processors ||
-|Unit testing ||
-|E2E UI testing ||
+|**Browser** || 
+|SPA Frameworks || 2
+|JavaScript || 2 
+|CSS pre processors || 2 
+|Unit testing || 4 
+|E2E UI testing || 3 
 |**Design Patterns** ||
-|OO/SOLID ||
-|CQRS ||
-|Domain Driven Design ||
-|Event Sourcing ||
-|Microservices and SOA ||
+|OO/SOLID || 3 
+|CQRS || 2 
+|Domain Driven Design || 2 
+|Event Sourcing || 2 
+|Microservices and SOA || 2 
 |Distributed Systems ||
-|**Build / Deployment**
-|Build Tools ||
-|CI/CD Tools ||
+|**Build / Deployment** 3 
+|Build Tools || 2 
+|CI/CD Tools || 2 
 |Deployment Strategies ||
 |Infrastructure as Code ||
 |Verson Control ||
-|**Cloud Platforms** ||
-|AWS ||
-|Azure ||
-|GCP or other ||
-
+|**Cloud Platforms** || 
+|AWS || 2  
+|Azure || 2 
+|GCP or other || 2
 
