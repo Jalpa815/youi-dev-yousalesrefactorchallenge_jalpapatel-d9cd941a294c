@@ -5886,11 +5886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo2\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales.Tests\\YouiSales.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo3\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales.Tests\\YouiSales.Tests.csproj",
       "projectName": "YouiSales.Tests",
-      "projectPath": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo2\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales.Tests\\YouiSales.Tests.csproj",
+      "projectPath": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo3\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales.Tests\\YouiSales.Tests.csproj",
       "packagesPath": "C:\\Users\\Shiven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo2\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo3\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shiven\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5906,8 +5906,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Shiven\\Source\\Repos\\NewRepo2\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj": {
-              "projectPath": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo2\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj"
+            "C:\\Users\\Shiven\\Source\\Repos\\NewRepo3\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj": {
+              "projectPath": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo3\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj"
             }
           }
         }

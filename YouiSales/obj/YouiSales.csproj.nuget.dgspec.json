@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shiven\\Source\\Repos\\NewRepo2\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj": {}
+    "C:\\Users\\Shiven\\Source\\Repos\\NewRepo3\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shiven\\Source\\Repos\\NewRepo2\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj": {
+    "C:\\Users\\Shiven\\Source\\Repos\\NewRepo3\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo2\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj",
+        "projectUniqueName": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo3\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj",
         "projectName": "YouiSales",
-        "projectPath": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo2\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj",
+        "projectPath": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo3\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\YouiSales.csproj",
         "packagesPath": "C:\\Users\\Shiven\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo2\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\obj\\",
+        "outputPath": "C:\\Users\\Shiven\\Source\\Repos\\NewRepo3\\youi-dev-yousalesrefactorchallenge_jalpapatel-d9cd941a294c\\YouiSales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shiven\\AppData\\Roaming\\NuGet\\NuGet.Config",
